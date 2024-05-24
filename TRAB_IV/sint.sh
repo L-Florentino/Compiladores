@@ -1,0 +1,1 @@
+sint.exe teste.c
